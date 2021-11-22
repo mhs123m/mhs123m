@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Alismail
-- 👀 I’m interested in building ios apps, games. Also, interested in analyzing data.
-- 🌱 I’m currently learning swift language.
+- 👀 I’m interested in building android apps, games.
+- 🌱 I’m currently learning Kotlin language in Tuwaiq 1000 bootcamp.
 
 
 <!---
