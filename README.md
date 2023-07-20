@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Alismail
-- 👀 I’m interested in building android apps, games.
-- 🌱 I’m currently learning Kotlin language in Tuwaiq 1000 bootcamp.
+- 👀 I’m interested in building learning anything in the tech field.
+- 🌱 I’m currently working as a software developer.
 
 
 <!---
