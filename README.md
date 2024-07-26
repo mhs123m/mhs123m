@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Alismail
-- 👀 I’m interested in building learning anything in the tech field.
-- 🌱 I’m currently working as a software developer.
+- 🌱 I’m currently working as a software engineer, especialized in backend and interested in DevOps.
 
 
 <!---
